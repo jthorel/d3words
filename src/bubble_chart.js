@@ -9,7 +9,7 @@
 function bubbleChart() {
   // Constants for sizing
   var width = 940;
-  var height = 600;
+  var height = 900;
 
   // tooltip for mouseover functionality
   var tooltip = floatingTooltip('gates_tooltip', 240);
@@ -19,16 +19,16 @@ function bubbleChart() {
   var center = { x: width / 2, y: height / 2 };
 
   var yearCenters = {
-    2008: { x: width / 3, y: height / 2 },
-    2009: { x: width / 2, y: height / 2 },
-    2010: { x: 2 * width / 3, y: height / 2 }
+    Q1: { x: width / 3, y: height / 2 },
+    Q2: { x: width / 2, y: height / 2 },
+    Q3: { x: 2 * width / 3, y: height / 2 }
   };
 
   // X locations of the year titles.
   var yearsTitleX = {
-    2008: 160,
-    2009: width / 2,
-    2010: width - 160
+    Q1: 160,
+    Q2: width / 2,
+    Q3: width - 160
   };
 
   // @v4 strength to apply to the position forces
@@ -90,10 +90,11 @@ function bubbleChart() {
    * This function returns the new node array, with a node in that
    * array for each element in the rawData input.
    */
-  function createNodes(rawData) {
+  function createNodes(inputData) {
+    var rawData = weightedWords(inputData);
     // Use the max total_amount in the data as the max in the scale's domain
     // note we have to ensure the total_amount is a number.
-    var maxAmount = d3.max(rawData, function (d) { return +d.total_amount; });
+    var maxAmount = d3.max(d3.values(rawData), function (d) { return +d.value; });
 
     // Sizes bubbles based on area.
     // @v4: new flattened scale names.
@@ -105,15 +106,16 @@ function bubbleChart() {
     // Use map() to convert raw data into node data.
     // Checkout http://learnjsdata.com/ for more on
     // working with data.
-    var myNodes = rawData.map(function (d) {
+    var myNodes = Object.keys(rawData).map(function (d) {
       return {
-        id: d.id,
-        radius: radiusScale(+d.total_amount),
-        value: +d.total_amount,
-        name: d.grant_title,
-        org: d.organization,
-        group: d.group,
-        year: d.start_year,
+        id: rawData[d].wordid,
+        radius: radiusScale(+rawData[d].value),
+        value: +rawData[d].value,
+        name: d,
+        groupid: d.group_id,
+        // org: d.organization,
+        // group: d.group,
+        // year: d.start_year,
         x: Math.random() * 900,
         y: Math.random() * 800
       };
@@ -151,28 +153,42 @@ function bubbleChart() {
 
     // Bind nodes data to what will become DOM elements to represent them.
     bubbles = svg.selectAll('.bubble')
-      .data(nodes, function (d) { return d.id; });
+      .data(nodes, function (d) { return d.id; })
+      .enter()
+      .append('g')
+      .on('mouseover', showDetail)
+      .on('mouseout', hideDetail);
 
     // Create new circle elements each with class `bubble`.
     // There will be one circle.bubble for each object in the nodes array.
     // Initially, their radius (r attribute) will be 0.
     // @v4 Selections are immutable, so lets capture the
     //  enter selection to apply our transtition to below.
-    var bubblesE = bubbles.enter().append('circle')
+    bubbles.append('circle')
       .classed('bubble', true)
       .attr('r', 0)
-      .attr('fill', function (d) { return fillColor(d.group); })
-      .attr('stroke', function (d) { return d3.rgb(fillColor(d.group)).darker(); })
-      .attr('stroke-width', 2)
-      .on('mouseover', showDetail)
-      .on('mouseout', hideDetail);
+      .attr('fill', function (d) { return fillColor(d.value); })
+      .attr('stroke', function (d) { return d3.rgb(fillColor(d.value)).darker(); })
+      .attr('stroke-width', 2);
+
+    var bubblesE = bubbles.append('text')
+      .attr('dy', '.2em')
+      .style('text-anchor', 'middle')
+      .text(function (d) {
+        return d.name;
+      })
+      .attr('font-family', 'sans-serif')
+      .attr('font-size', function (d) {
+        return d.radius / 2;
+      })
+      .attr('fill', 'white');
 
     // @v4 Merge the original empty selection and the enter selection
     bubbles = bubbles.merge(bubblesE);
 
     // Fancy transition to make bubbles appear, ending with the
     // correct radius
-    bubbles.transition()
+    bubbles.select('circle').transition()
       .duration(2000)
       .attr('r', function (d) { return d.radius; });
 
@@ -193,8 +209,11 @@ function bubbleChart() {
    */
   function ticked() {
     bubbles
-      .attr('cx', function (d) { return d.x; })
-      .attr('cy', function (d) { return d.y; });
+      .attr("transform", function (d) {
+        return "translate(" + d.x + "," + d.y + ")";
+      });
+    // .attr('cx', function (d) { return d.x; })
+    // .attr('cy', function (d) { return d.y; });
   }
 
   /*
@@ -202,7 +221,7 @@ function bubbleChart() {
    * x force.
    */
   function nodeYearPos(d) {
-    return yearCenters[d.year].x;
+    return yearCenters[d.groupid].x;
   }
 
 
@@ -271,19 +290,19 @@ function bubbleChart() {
    */
   function showDetail(d) {
     // change outline to indicate hover state.
-    d3.select(this).attr('stroke', 'black');
+    d3.select(this).select('circle').attr('stroke', 'black');
 
-    var content = '<span class="name">Title: </span><span class="value">' +
-                  d.name +
-                  '</span><br/>' +
-                  '<span class="name">Amount: </span><span class="value">$' +
-                  addCommas(d.value) +
-                  '</span><br/>' +
-                  '<span class="name">Year: </span><span class="value">' +
-                  d.year +
-                  '</span>';
+    // var content = '<span class="name">Title: </span><span class="value">' +
+    //   d.name +
+    //   '</span><br/>' +
+    //   '<span class="name">Amount: </span><span class="value">$' +
+    //   addCommas(d.value) +
+    //   '</span><br/>' +
+    //   '<span class="name">Year: </span><span class="value">' +
+    //   d.year +
+    //   '</span>';
 
-    tooltip.showTooltip(content, d3.event);
+    // tooltip.showTooltip(content, d3.event);
   }
 
   /*
@@ -291,7 +310,7 @@ function bubbleChart() {
    */
   function hideDetail(d) {
     // reset outline
-    d3.select(this)
+    d3.select(this).select('circle')
       .attr('stroke', d3.rgb(fillColor(d.group)).darker());
 
     tooltip.hideTooltip();
@@ -333,7 +352,15 @@ function display(error, data) {
     console.log(error);
   }
 
-  myBubbleChart('#vis', data);
+  var newData = [];
+  var sentiment = 0;
+  data.sessions.forEach(function (d) {
+    newData = newData.concat(d.words);
+    sentiment += d.sentiment;
+  });
+
+  document.getElementById('sent').innerHTML = parseSentiment((sentiment / data.sessions.length));
+  myBubbleChart('#vis', newData);
 }
 
 /*
@@ -378,7 +405,37 @@ function addCommas(nStr) {
 }
 
 // Load the data.
-d3.csv('data/gates_money.csv', display);
+d3.json('https://hackaton181102.azurewebsites.net/api/get?code=7yMHY9goj9Vsy6R9lzJ0QwSpah50wu0biKl16abQp41Gzn3SjpHwFQ==', display);
+// d3.json('data/Hackathon.json', display);
 
 // setup the buttons.
 setupButtons();
+
+
+function weightedWords(rawData) {
+  var dict = {};
+  var counter = 0;
+  rawData.forEach(function (word) {
+    if (dict[word.word] === undefined) {
+      dict[word.word] = {
+        value: 1,
+        wordid: counter
+      };
+      counter++;
+    } else {
+      dict[word.word].value = dict[word.word].value + 1;
+    }
+  });
+
+  return dict;
+}
+
+function parseSentiment(sentiment) {
+  if (sentiment < 0.33) {
+    return "😡";
+  } else if (sentiment < 0.66) {
+    return "😐";
+  } else {
+    return "😊";
+  }
+}

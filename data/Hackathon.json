@@ -1,0 +1,2909 @@
+{
+    "sessions": [
+        {
+            "input": "My work week has been pretty good we have signed two new deals in able to move forward in those projects and I feel pretty confident that they will be successful",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "My",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "2",
+                    "word": "work",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "3",
+                    "word": "week",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "4",
+                    "word": "has",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "5",
+                    "word": "been",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "6",
+                    "word": "pretty",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "7",
+                    "word": "good",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "8",
+                    "word": "we",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "9",
+                    "word": "have",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "10",
+                    "word": "signed",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "11",
+                    "word": "two",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "12",
+                    "word": "new",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "13",
+                    "word": "deals",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "14",
+                    "word": "in",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "15",
+                    "word": "able",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "16",
+                    "word": "to",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "17",
+                    "word": "move",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "18",
+                    "word": "forward",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "19",
+                    "word": "in",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "20",
+                    "word": "those",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "21",
+                    "word": "projects",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "22",
+                    "word": "and",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "23",
+                    "word": "I",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "24",
+                    "word": "feel",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "25",
+                    "word": "pretty",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "26",
+                    "word": "confident",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "27",
+                    "word": "that",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "28",
+                    "word": "they",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "29",
+                    "word": "will",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "30",
+                    "word": "be",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "31",
+                    "word": "successful",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "new deals",
+                "projects",
+                "work week"
+            ],
+            "sentiment": "0.91",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Lars1"
+        },
+        {
+            "input": "My team members need to take more responsibility for Innovation and creativity they just don't seem to get it. I don't know how to do it but yeah more responsibility.",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "My",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "2",
+                    "word": "team",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "3",
+                    "word": "members",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "4",
+                    "word": "need",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "5",
+                    "word": "to",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "6",
+                    "word": "take",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "7",
+                    "word": "more",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "8",
+                    "word": "responsibility",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "9",
+                    "word": "for",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "10",
+                    "word": "Innovation",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "11",
+                    "word": "and",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "12",
+                    "word": "creativity",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "13",
+                    "word": "they",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "14",
+                    "word": "just",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "15",
+                    "word": "don't",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "16",
+                    "word": "seem",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "17",
+                    "word": "to",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "18",
+                    "word": "get",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "19",
+                    "word": "it.",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "20",
+                    "word": "I",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "21",
+                    "word": "don't",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "22",
+                    "word": "know",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "23",
+                    "word": "how",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "24",
+                    "word": "to",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "25",
+                    "word": "do",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "26",
+                    "word": "it",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "27",
+                    "word": "but",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "28",
+                    "word": "yeah",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "29",
+                    "word": "more",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "30",
+                    "word": "responsibility.",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "responsibility",
+                "team members",
+                "Innovation",
+                "creativity"
+            ],
+            "sentiment": "0.1",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Lars2"
+        },
+        {
+            "input": "I really like winning. When I'm winning, I'm energized. If I don't win I feel sad.",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "I",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "2",
+                    "word": "really",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "3",
+                    "word": "like",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "4",
+                    "word": "winning.",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "5",
+                    "word": "When",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "6",
+                    "word": "I'm",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "7",
+                    "word": "winning,",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "8",
+                    "word": "I'm",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "9",
+                    "word": "energized.",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "10",
+                    "word": "If",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "11",
+                    "word": "I",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "12",
+                    "word": "don't",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "13",
+                    "word": "win",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "14",
+                    "word": "I",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "15",
+                    "word": "feel",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "16",
+                    "word": "sad.",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [],
+            "sentiment": "0.14",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Lars3"
+        },
+        {
+            "input": "Quite nice week doing some testing. In general lovley week",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "Quite",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "2",
+                    "word": "nice",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "3",
+                    "word": "week",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "4",
+                    "word": "doing",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "5",
+                    "word": "some",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "6",
+                    "word": "testing.",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "7",
+                    "word": "In",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "8",
+                    "word": "general",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "9",
+                    "word": "lovley",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "10",
+                    "word": "week",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "nice week",
+                "general lovley week",
+                "testing"
+            ],
+            "sentiment": "0.96",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Dan1"
+        },
+        {
+            "input": "Our team is working with a Hadoop environment and we think that we're gonna do some local development instead of letting TCS do all the work, so the innovation is to transport ourself from cloudera to the horton network",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "Our",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "2",
+                    "word": "team",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "3",
+                    "word": "is",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "4",
+                    "word": "working",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "5",
+                    "word": "with",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "6",
+                    "word": "a",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "7",
+                    "word": "Hadoop",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "8",
+                    "word": "environment",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "9",
+                    "word": "and",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "10",
+                    "word": "we",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "11",
+                    "word": "think",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "12",
+                    "word": "that",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "13",
+                    "word": "we're",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "14",
+                    "word": "gonna",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "15",
+                    "word": "do",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "16",
+                    "word": "some",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "17",
+                    "word": "local",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "18",
+                    "word": "development",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "19",
+                    "word": "instead",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "20",
+                    "word": "of",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "21",
+                    "word": "letting",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "22",
+                    "word": "TCS",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "23",
+                    "word": "do",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "24",
+                    "word": "all",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "25",
+                    "word": "the",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "26",
+                    "word": "work,",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "27",
+                    "word": "so",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "28",
+                    "word": "the",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "29",
+                    "word": "innovation",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "30",
+                    "word": "is",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "31",
+                    "word": "to",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "32",
+                    "word": "transport",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "33",
+                    "word": "ourself",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "34",
+                    "word": "from",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "35",
+                    "word": "cloudera",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "36",
+                    "word": "to",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "37",
+                    "word": "the",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "38",
+                    "word": "horton",
+                    "type": "noun"
+                },
+                {
+                    "wordint": "39",
+                    "word": "network",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "cloudera",
+                "ourself",
+                "TCS",
+                "gonna",
+                "local development",
+                "innovation",
+                "horton network",
+                "Hadoop environment",
+                "team"
+            ],
+            "sentiment": "0.5",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Dan2"
+        },
+        {
+            "input": "Our energy comes from our young talent coworkers and we are developing a new fullfilled product for Folksam and that makes everyday a bit of achallenge. So thats what's gets our energy going",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "Our",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "energy",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "comes",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "from",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "our",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "young",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "talent",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "coworkers",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "we",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "are",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "developing",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "13",
+                    "word": "a",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "14",
+                    "word": "new",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "15",
+                    "word": "fullfilled",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "16",
+                    "word": "product",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "17",
+                    "word": "for",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "18",
+                    "word": "Folksam",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "19",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "20",
+                    "word": "that",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "21",
+                    "word": "makes",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "22",
+                    "word": "everyday",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "23",
+                    "word": "a",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "24",
+                    "word": "bit",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "25",
+                    "word": "of",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "26",
+                    "word": "achallenge.",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "27",
+                    "word": "So",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "28",
+                    "word": "thats",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "29",
+                    "word": "what's",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "30",
+                    "word": "gets",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "31",
+                    "word": "our",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "32",
+                    "word": "energy",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "33",
+                    "word": "going",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "energy",
+                "new fullfilled product",
+                "young talent coworkers",
+                "Folksam",
+                "thats",
+                "achallenge"
+            ],
+            "sentiment": "0.5",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Dan3"
+        },
+        {
+            "input": "My week has been mostly problems and I think we just put out some fires and haven't done any what we have to do but it's okay",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "My",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "week",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "has",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "been",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "mostly",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "problems",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "I",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "think",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "we",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "just",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "put",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "13",
+                    "word": "out",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "14",
+                    "word": "some",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "15",
+                    "word": "fires",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "16",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "17",
+                    "word": "haven't",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "18",
+                    "word": "done",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "19",
+                    "word": "any",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "20",
+                    "word": "what",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "21",
+                    "word": "we",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "22",
+                    "word": "have",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "23",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "24",
+                    "word": "do",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "25",
+                    "word": "but",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "26",
+                    "word": "it's",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "27",
+                    "word": "okay",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "week",
+                "problems",
+                "fires"
+            ],
+            "sentiment": "0.09",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Fredrik1"
+        },
+        {
+            "input": "I think more freedome and less rules, would be the thing for us now",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "I",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "think",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "more",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "freedome",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "less",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "rules,",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "would",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "be",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "the",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "thing",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "for",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "13",
+                    "word": "us",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "14",
+                    "word": "now",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                    "rules",
+                    "freedome",
+                    "thing"
+            ],
+            "sentiment": "0.5",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Fredrik2"
+        },
+        {
+            "input": "The CMDB would be nice to have",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "The",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "CMDB",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "would",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "be",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "nice",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "have",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "CMDB"
+            ],
+            "sentiment": "0.94",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Fredrik3"
+        },
+        {
+            "input": "My work week has been really good actually. The past couple of days I have been building some power BI reports that I am really satisfied with so I am hopefully going to present them during next week.",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "My",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "work",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "week",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "has",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "been",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "really",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "good",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "actually.",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "The",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "past",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "couple",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "of",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "13",
+                    "word": "days",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "14",
+                    "word": "I",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "15",
+                    "word": "have",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "16",
+                    "word": "been",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "17",
+                    "word": "building",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "18",
+                    "word": "some",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "19",
+                    "word": "power",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "20",
+                    "word": "BI",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "21",
+                    "word": "reports",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "22",
+                    "word": "that",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "23",
+                    "word": "I",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "24",
+                    "word": "am",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "25",
+                    "word": "really",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "26",
+                    "word": "satisfied",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "27",
+                    "word": "with",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "28",
+                    "word": "so",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "29",
+                    "word": "I",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "30",
+                    "word": "am",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "31",
+                    "word": "hopefully",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "32",
+                    "word": "going",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "33",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "34",
+                    "word": "present",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "35",
+                    "word": "them",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "36",
+                    "word": "during",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "37",
+                    "word": "next",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "38",
+                    "word": "week.",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "work week",
+                "past couple of days",
+                "power BI reports"
+            ],
+            "sentiment": "0.85",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Rasmus1"
+        },
+        {
+            "input": "I think that if we would make changes that would almost obligate people to to work with other things that they are normally working with that would increase Innovation and creativity so everybody should possibly book some time in their calendar to do creative and Innovative stuff that is not part of their daily work",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "I",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "think",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "that",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "if",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "we",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "would",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "make",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "changes",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "that",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "would",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "almost",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "obligate",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "13",
+                    "word": "people",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "14",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "15",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "16",
+                    "word": "work",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "17",
+                    "word": "with",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "18",
+                    "word": "other",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "19",
+                    "word": "things",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "20",
+                    "word": "that",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "21",
+                    "word": "they",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "22",
+                    "word": "are",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "23",
+                    "word": "normally",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "24",
+                    "word": "working",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "25",
+                    "word": "with",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "26",
+                    "word": "that",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "27",
+                    "word": "would",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "28",
+                    "word": "increase",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "29",
+                    "word": "Innovation",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "30",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "31",
+                    "word": "creativity",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "32",
+                    "word": "so",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "33",
+                    "word": "everybody",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "34",
+                    "word": "should",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "35",
+                    "word": "possibly",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "36",
+                    "word": "book",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "37",
+                    "word": "some",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "38",
+                    "word": "time",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "39",
+                    "word": "in",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "40",
+                    "word": "their",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "41",
+                    "word": "calendar",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "42",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "43",
+                    "word": "do",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "44",
+                    "word": "creative",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "45",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "46",
+                    "word": "Innovative",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "47",
+                    "word": "stuff",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "48",
+                    "word": "that",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "49",
+                    "word": "is",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "50",
+                    "word": "not",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "51",
+                    "word": "part",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "52",
+                    "word": "of",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "53",
+                    "word": "their",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "daily work",
+                "calendar",
+                "Innovative stuff",
+                "obligate people",
+                "changes",
+                "time",
+                "Innovation",
+                "creativity",
+                "things"
+            ],
+            "sentiment": "0.81",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Rasmus2"
+        },
+        {
+            "input": "What makes me energized is the ability to have a dialogue with my colleagues I get a lot of kick back from that and a lot of energy from that so been able to brainstorm openly with my colleagues is a big big thing to make me energized at work.",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "What",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "makes",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "me",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "energized",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "is",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "the",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "ability",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "have",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "a",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "dialogue",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "with",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "13",
+                    "word": "my",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "14",
+                    "word": "colleagues",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "15",
+                    "word": "I",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "16",
+                    "word": "get",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "17",
+                    "word": "a",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "18",
+                    "word": "lot",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "19",
+                    "word": "of",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "20",
+                    "word": "kick",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "21",
+                    "word": "back",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "22",
+                    "word": "from",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "23",
+                    "word": "that",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "24",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "25",
+                    "word": "a",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "26",
+                    "word": "lot",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "27",
+                    "word": "of",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "28",
+                    "word": "energy",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "29",
+                    "word": "from",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "30",
+                    "word": "that",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "31",
+                    "word": "so",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "32",
+                    "word": "been",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "33",
+                    "word": "able",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "34",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "35",
+                    "word": "brainstorm",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "36",
+                    "word": "openly",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "37",
+                    "word": "with",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "38",
+                    "word": "my",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "39",
+                    "word": "colleagues",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "40",
+                    "word": "is",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "41",
+                    "word": "a",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "42",
+                    "word": "big",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "43",
+                    "word": "big",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "44",
+                    "word": "thing",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "45",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "46",
+                    "word": "make",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "47",
+                    "word": "me",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "48",
+                    "word": "energized",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "49",
+                    "word": "at",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "50",
+                    "word": "work.",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "colleagues",
+                "big big thing",
+                "lot of kick",
+                "lot of energy",
+                "dialogue",
+                "ability",
+                "work"
+            ],
+            "sentiment": "0.8",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Rasmus3"
+        },
+        {
+            "input": "This has been a terrible week for me because I got fired",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "This",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "has",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "been",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "a",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "terrible",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "week",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "for",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "me",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "because",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "I",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "got",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "fired",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "terrible week"
+            ],
+            "sentiment": "0.07",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Anne1"
+        },
+        {
+            "input": "I think that my team is the most creative team at Folksam",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "I",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "think",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "that",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "my",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "team",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "is",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "the",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "most",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "creative",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "team",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "at",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "Folksam",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "creative team",
+                "Folksam"
+            ],
+            "sentiment": "0.5",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Anne2"
+        },
+        {
+            "input": "That must be the fredags fika with the team",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "That",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "must",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "be",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "the",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "fredags",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "fika",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "with",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "the",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "team",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "fredags fika",
+                "team"
+            ],
+            "sentiment": "0.5",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Anne3"
+        },
+        {
+            "input": "My week's been quite hectic withwith alot to do and started being sick home sick for two days so I'm behind",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "My",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "week's",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "been",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "quite",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "hectic",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "withwith",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "alot",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "do",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "started",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "being",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "13",
+                    "word": "sick",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "14",
+                    "word": "home",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "15",
+                    "word": "sick",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "16",
+                    "word": "for",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "17",
+                    "word": "two",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "18",
+                    "word": "days",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "19",
+                    "word": "so",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "20",
+                    "word": "I'm",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "21",
+                    "word": "behind",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "sick home sick",
+                "hectic withwith alot",
+                "week's",
+                "days"
+            ],
+            "sentiment": "0.04",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Malin1"
+        },
+        {
+            "input": "To be able to increase innovation in my team we need i think a liitle bit more time and alot of time accually and ah, that's a hard question. Inspiration. Opportunities from outside of Folksam to be able to get more inspiration I think would be good ",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "To",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "be",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "able",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "increase",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "innovation",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "in",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "my",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "team",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "we",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "need",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "i",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "13",
+                    "word": "think",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "14",
+                    "word": "a",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "15",
+                    "word": "liitle",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "16",
+                    "word": "bit",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "17",
+                    "word": "more",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "18",
+                    "word": "time",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "19",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "20",
+                    "word": "alot",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "21",
+                    "word": "of",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "22",
+                    "word": "time",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "23",
+                    "word": "accually",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "24",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "25",
+                    "word": "ah,",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "26",
+                    "word": "that's",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "27",
+                    "word": "a",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "28",
+                    "word": "hard",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "29",
+                    "word": "question.",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "30",
+                    "word": "Inspiration.",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "31",
+                    "word": "Opportunities",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "32",
+                    "word": "from",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "33",
+                    "word": "outside",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "34",
+                    "word": "of",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "35",
+                    "word": "Folksam",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "36",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "37",
+                    "word": "be",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "38",
+                    "word": "able",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "39",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "40",
+                    "word": "get",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "41",
+                    "word": "more",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "42",
+                    "word": "inspiration",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "43",
+                    "word": "I",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "44",
+                    "word": "think",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "45",
+                    "word": "would",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "46",
+                    "word": "be",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "47",
+                    "word": "good",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "Inspiration",
+                "alot of time accually",
+                "team",
+                "liitle",
+                "innovation",
+                "Folksam",
+                "hard question",
+                "Opportunities"
+            ],
+            "sentiment": "0.76",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Malin2"
+        },
+        {
+            "input": "Energized at work is people, challanges and ah… having fun. That's yes that's it. ",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "Energized",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "at",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "work",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "is",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "people,",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "challanges",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "ah…",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "having",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "fun.",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "That's",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "yes",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "13",
+                    "word": "that's",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "14",
+                    "word": "it.",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "challanges",
+                "work",
+                "people",
+                "fun"
+            ],
+            "sentiment": "0.94",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Malin3"
+        },
+        {
+            "input": "My work week has been overall good even though I've accually had a little bit to little to do but otherwise fine",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "My",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "work",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "week",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "has",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "been",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "overall",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "good",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "even",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "though",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "I'v",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "accually",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "had",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "13",
+                    "word": "a",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "14",
+                    "word": "little",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "15",
+                    "word": "bit",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "16",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "17",
+                    "word": "little",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "18",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "19",
+                    "word": "do",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "20",
+                    "word": "but",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "21",
+                    "word": "otherwise",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "22",
+                    "word": "fine",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "work week"
+            ],
+            "sentiment": "0.17",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Erik1"
+        },
+        {
+            "input": "I think that more coopration in our group would increase innovation and creativity. I think this hackathon day is a very big plus",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "I",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "think",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "that",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "more",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "coopration",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "in",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "our",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "group",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "would",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "increase",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "innovation",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "12",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "13",
+                    "word": "creativity.",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "14",
+                    "word": "I",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "15",
+                    "word": "think",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "16",
+                    "word": "this",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "17",
+                    "word": "hackathon",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "18",
+                    "word": "day",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "19",
+                    "word": "is",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "20",
+                    "word": "a",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "21",
+                    "word": "very",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "22",
+                    "word": "big",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "23",
+                    "word": "plus",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "group",
+                "innovation",
+                "hackathon day",
+                "big plus",
+                "creativity",
+                "coopration"
+            ],
+            "sentiment": "0.5",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Erik2"
+        },
+        {
+            "input": "What gets me energized is to build and create new things",
+            "words": [
+                {
+                    "wordint": "1",
+                    "word": "What",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "2",
+                    "word": "gets",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "3",
+                    "word": "me",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "4",
+                    "word": "energized",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "5",
+                    "word": "is",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "6",
+                    "word": "to",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "7",
+                    "word": "build",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "8",
+                    "word": "and",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "9",
+                    "word": "create",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "10",
+                    "word": "new",
+                    "type": "noun"
+                    },
+                    {
+                    "wordint": "11",
+                    "word": "things",
+                    "type": "noun"
+                }
+            ],
+            "keyPhrases": [
+                "new things"
+            ],
+            "sentiment": "0.93",
+            "groupid": "ffl",
+            "datetime": "20181102",
+            "id": "Erik3"
+        }
+    ]
+}

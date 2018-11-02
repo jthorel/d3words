@@ -1,0 +1,59 @@
+{
+    "sessions": [
+        {
+            "input": "cykla",
+            "words": [
+                {
+                    "wordid": "1",
+                    "word": "cyka",
+                    "type": "VERB"
+                },
+                {
+                    "wordid": "1",
+                    "word": "cyka",
+                    "type": "VERB"
+                },
+                {
+                    "wordid": "1",
+                    "word": "cyka",
+                    "type": "VERB"
+                },
+                {
+                    "wordid": "1",
+                    "word": "cyka",
+                    "type": "VERB"
+                },
+                {
+                    "wordid": "1",
+                    "word": "blyat",
+                    "type": "VERB"
+                },
+                {
+                    "wordid": "1",
+                    "word": "blyat",
+                    "type": "VERB"
+                },
+                {
+                    "wordid": "1",
+                    "word": "da",
+                    "type": "VERB"
+                },
+                {
+                    "wordid": "1",
+                    "word": "spatziba",
+                    "type": "VERB"
+                },
+                {
+                    "wordid": "1",
+                    "word": "kurwa",
+                    "type": "VERB"
+                }
+            ],
+            "sentiment": "0.9",
+            "keyphrases": [],
+            "groupid": "1",
+            "id": "1"
+        }
+    ]
+}
+
